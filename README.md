@@ -1,1 +1,1 @@
-##A basic app to get my feet wet with Angular.
+## A basic app to get my feet wet with Angular.
